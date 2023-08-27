@@ -20,8 +20,6 @@ nopah
 
 Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student at UC Irvine!
 
-<br>
-
 ## Contact Me 📫
 
 - Email: <a href="dennis.lustre@gmail.com" target="_blank">dennis.lustre@gmail.com</a>
