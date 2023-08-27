@@ -15,7 +15,7 @@ nopah
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+### About Me
 
 CS Student at UC Irvine!
 
