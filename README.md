@@ -16,7 +16,7 @@ nopah
 
 ## About Me
 
-Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student at UC Irvine!
+Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student @ UC Irvine!
 
 ## Contact Me 📫
 
