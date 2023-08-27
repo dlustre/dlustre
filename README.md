@@ -1,4 +1,4 @@
-### Hi, I'm Dennis! 👋
+## Hi, I'm Dennis! 👋
 
 <!--
 **dlustre/dlustre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
