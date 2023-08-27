@@ -14,7 +14,6 @@ nopah
 - ⚡ Fun fact: ...
 -->
 
-
 ## About Me!
 
 Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student at UC Irvine!
