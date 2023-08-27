@@ -14,7 +14,6 @@ nopah
 - ⚡ Fun fact: ...
 -->
 
-<br>
 
 ## About Me!
 
