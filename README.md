@@ -15,4 +15,4 @@ nopah
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://myreadme.vercel.app/api/embed/dlustre?panels=userstatistics,toplanguages,commitgraph,userwelcome"/>
+<img src="https://myreadme.vercel.app/api/embed/dlustre?panels=userstatistics,toplanguages,commitgraph"/>
