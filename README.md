@@ -15,4 +15,13 @@ nopah
 - ⚡ Fun fact: ...
 -->
 
+## About Me
+
+CS Student at UC Irvine!
+
+## Contact Me 📫
+
+- Email: <a href="dennis.lustre@gmail.com" target="_blank">dennis.lustre@gmail.com</a>
+- <a target="_blank" href="https://www.linkedin.com/in/dennis-lustre/">LinkedIn</a>
+
 <img src="https://myreadme.vercel.app/api/embed/dlustre?panels=toplanguages,userstatistics,commitgraph"/>
