@@ -14,13 +14,11 @@ nopah
 - ⚡ Fun fact: ...
 -->
 
-## About Me :sunglasses:
-
 Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student @ UC Irvine!
 
 ## Contact Me 📫
 
-- Email: <a href="dennis.lustre@gmail.com" target="_blank">dennis.lustre@gmail.com</a>
+- <a href="dennis.lustre@gmail.com" target="_blank">dennis.lustre@gmail.com</a>
 - <a target="_blank" href="https://www.linkedin.com/in/dennis-lustre/">LinkedIn</a>
 
 <br>
