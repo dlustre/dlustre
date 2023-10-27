@@ -18,8 +18,9 @@ Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student @ U
 
 ## Contact Me 📫
 
-- <a href="dennis.lustre@gmail.com" target="_blank">dennis.lustre@gmail.com</a>
-- <a target="_blank" href="https://www.linkedin.com/in/dennis-lustre/">LinkedIn</a>
+<a href="dennis.lustre@gmail.com" target="_blank">dennis.lustre@gmail.com</a>
+<a target="_blank" href="https://www.linkedin.com/in/dennis-lustre/">LinkedIn</a>
+<a target="_blank" href="mailto:dennis.lustre@gmail.com">dennis.lustre@gmail.com</a>
 
 <br>
 <br>
