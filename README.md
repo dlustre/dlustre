@@ -1,4 +1,4 @@
-## Hi, I'm Dennis! 👋
+## Hi, I'm Dennis 👋
 <!--
 **dlustre/dlustre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ nopah
 
 Currently a Software Engineer Intern @ Thaddeus Resource Center & CS Student @ UC Irvine!
 
-## Contact Me 📫
+## Contact Info
 
 <a target="_blank" href="https://www.linkedin.com/in/dennis-lustre/">LinkedIn</a> <br>
 <a target="_blank" href="mailto:dennis.lustre@gmail.com">dennis.lustre@gmail.com</a>
