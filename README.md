@@ -55,9 +55,11 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# 📊 GitHub Stats:
+<br>
+<br>
+
 <img src="https://myreadme.vercel.app/api/embed/dlustre?panels=toplanguages,userstatistics,commitgraph"/>
 
-[![](https://visitcount.itsvg.in/api?id=dlustre&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=dlustre)
 
 </div>
