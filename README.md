@@ -60,6 +60,4 @@
 
 <img src="https://myreadme.vercel.app/api/embed/dlustre?panels=toplanguages,userstatistics,commitgraph"/>
 
-![](https://komarev.com/ghpvc/?username=dlustre)
-
 </div>
