@@ -13,6 +13,8 @@
 
 <img src=qr-code.jpg alt=qrcode width=200/>
 
+<br>
+
 <a href="https://linkedin.com/in/dennis-lustre" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 20px;" />
 </a>
