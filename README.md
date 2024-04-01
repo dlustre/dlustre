@@ -6,8 +6,8 @@
 ### This is what I'm up to:
 
 **Software Engineer Intern @ Thaddeus Resource Center**\
-**Software Developer for ICSSC ([ZotMeal](https://github.com/icssc/ZotMeal))**\
-**CS Student @ UC Irvine**  
+**Software Developer @ ICSSC ([ZotMeal](https://github.com/icssc/ZotMeal))**\
+**CS @ UC Irvine**  
 
 ### Scan for contact info 📲
 
