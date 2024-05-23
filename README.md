@@ -1,7 +1,8 @@
 <div align="center">
 <br>
 
-## Hi, I'm Dennis 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1500&pause=1500&color=05A9A3&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=300&lines=Hi+%F0%9F%91%8B;I'm+Dennis;I+love+building+software+that+solves+problems;So+reach+out+to+me+and+let's+talk!;And+let's+create+something+amazing." alt="Typing SVG" /></a>
+
 
 ### This is what I'm up to:
 
